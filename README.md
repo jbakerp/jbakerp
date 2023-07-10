@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is Joe.  I'm currently working on prework for attending Tech Elevator in May 2023.  
+# My name is Joe.  I'm currently attending Tech Elevator and looking to complete the course in August. 
 <!--
 **jbakerp/jbakerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
