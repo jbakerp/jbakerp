@@ -1,5 +1,5 @@
 ### Hi there 👋
-# My name is Joe.  I'm currently attending Tech Elevator and looking to complete the course in August. 
+# My name is Joe.  I'm a Junior Developer. This is a place for my projects.
 <!--
 **jbakerp/jbakerp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
